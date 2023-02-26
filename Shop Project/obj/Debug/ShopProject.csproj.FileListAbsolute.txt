@@ -1,0 +1,54 @@
+C:\Users\Huong Quynh Tran\Dropbox (Old)\My PC (MSI)\Desktop\source\repos\Shop Project\Shop Project\obj\Debug\ShopProject.csproj.AssemblyReference.cache
+C:\Users\Huong Quynh Tran\Dropbox (Old)\My PC (MSI)\Desktop\source\repos\Shop Project\Shop Project\obj\Debug\ShopProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\Huong Quynh Tran\Dropbox (Old)\My PC (MSI)\Desktop\source\repos\Shop Project\Shop Project\obj\Debug\Shop_Project.Form1.resources
+C:\Users\Huong Quynh Tran\Dropbox (Old)\My PC (MSI)\Desktop\source\repos\Shop Project\Shop Project\obj\Debug\Shop_Project.Forms.CustomerOptions.resources
+C:\Users\Huong Quynh Tran\Dropbox (Old)\My PC (MSI)\Desktop\source\repos\Shop Project\Shop Project\obj\Debug\Shop_Project.Properties.Resources.resources
+C:\Users\Huong Quynh Tran\Dropbox (Old)\My PC (MSI)\Desktop\source\repos\Shop Project\Shop Project\obj\Debug\ShopProject.csproj.GenerateResource.cache
+C:\Users\Huong Quynh Tran\Dropbox (Old)\My PC (MSI)\Desktop\source\repos\Shop Project\Shop Project\obj\Debug\ShopProject.csproj.CoreCompileInputs.cache
+C:\Users\Huong Quynh Tran\Dropbox (Old)\My PC (MSI)\Desktop\source\repos\Shop Project\Shop Project\bin\Debug\Shop Project.exe.config
+C:\Users\Huong Quynh Tran\Dropbox (Old)\My PC (MSI)\Desktop\source\repos\Shop Project\Shop Project\bin\Debug\Shop Project.exe
+C:\Users\Huong Quynh Tran\Dropbox (Old)\My PC (MSI)\Desktop\source\repos\Shop Project\Shop Project\bin\Debug\Shop Project.pdb
+C:\Users\Huong Quynh Tran\Dropbox (Old)\My PC (MSI)\Desktop\source\repos\Shop Project\Shop Project\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Huong Quynh Tran\Dropbox (Old)\My PC (MSI)\Desktop\source\repos\Shop Project\Shop Project\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Huong Quynh Tran\Dropbox (Old)\My PC (MSI)\Desktop\source\repos\Shop Project\Shop Project\bin\Debug\System.Buffers.dll
+C:\Users\Huong Quynh Tran\Dropbox (Old)\My PC (MSI)\Desktop\source\repos\Shop Project\Shop Project\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Huong Quynh Tran\Dropbox (Old)\My PC (MSI)\Desktop\source\repos\Shop Project\Shop Project\bin\Debug\System.Memory.dll
+C:\Users\Huong Quynh Tran\Dropbox (Old)\My PC (MSI)\Desktop\source\repos\Shop Project\Shop Project\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Huong Quynh Tran\Dropbox (Old)\My PC (MSI)\Desktop\source\repos\Shop Project\Shop Project\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Huong Quynh Tran\Dropbox (Old)\My PC (MSI)\Desktop\source\repos\Shop Project\Shop Project\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Huong Quynh Tran\Dropbox (Old)\My PC (MSI)\Desktop\source\repos\Shop Project\Shop Project\bin\Debug\System.Security.Permissions.dll
+C:\Users\Huong Quynh Tran\Dropbox (Old)\My PC (MSI)\Desktop\source\repos\Shop Project\Shop Project\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Huong Quynh Tran\Dropbox (Old)\My PC (MSI)\Desktop\source\repos\Shop Project\Shop Project\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Huong Quynh Tran\Dropbox (Old)\My PC (MSI)\Desktop\source\repos\Shop Project\Shop Project\bin\Debug\System.Text.Json.dll
+C:\Users\Huong Quynh Tran\Dropbox (Old)\My PC (MSI)\Desktop\source\repos\Shop Project\Shop Project\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Huong Quynh Tran\Dropbox (Old)\My PC (MSI)\Desktop\source\repos\Shop Project\Shop Project\bin\Debug\System.ValueTuple.dll
+C:\Users\Huong Quynh Tran\Dropbox (Old)\My PC (MSI)\Desktop\source\repos\Shop Project\Shop Project\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Huong Quynh Tran\Dropbox (Old)\My PC (MSI)\Desktop\source\repos\Shop Project\Shop Project\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Huong Quynh Tran\Dropbox (Old)\My PC (MSI)\Desktop\source\repos\Shop Project\Shop Project\bin\Debug\System.Buffers.xml
+C:\Users\Huong Quynh Tran\Dropbox (Old)\My PC (MSI)\Desktop\source\repos\Shop Project\Shop Project\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Huong Quynh Tran\Dropbox (Old)\My PC (MSI)\Desktop\source\repos\Shop Project\Shop Project\bin\Debug\System.Memory.xml
+C:\Users\Huong Quynh Tran\Dropbox (Old)\My PC (MSI)\Desktop\source\repos\Shop Project\Shop Project\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Huong Quynh Tran\Dropbox (Old)\My PC (MSI)\Desktop\source\repos\Shop Project\Shop Project\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Huong Quynh Tran\Dropbox (Old)\My PC (MSI)\Desktop\source\repos\Shop Project\Shop Project\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Huong Quynh Tran\Dropbox (Old)\My PC (MSI)\Desktop\source\repos\Shop Project\Shop Project\bin\Debug\System.Security.Permissions.xml
+C:\Users\Huong Quynh Tran\Dropbox (Old)\My PC (MSI)\Desktop\source\repos\Shop Project\Shop Project\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Huong Quynh Tran\Dropbox (Old)\My PC (MSI)\Desktop\source\repos\Shop Project\Shop Project\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Huong Quynh Tran\Dropbox (Old)\My PC (MSI)\Desktop\source\repos\Shop Project\Shop Project\bin\Debug\System.Text.Json.xml
+C:\Users\Huong Quynh Tran\Dropbox (Old)\My PC (MSI)\Desktop\source\repos\Shop Project\Shop Project\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Huong Quynh Tran\Dropbox (Old)\My PC (MSI)\Desktop\source\repos\Shop Project\Shop Project\bin\Debug\System.ValueTuple.xml
+C:\Users\Huong Quynh Tran\Dropbox (Old)\My PC (MSI)\Desktop\source\repos\Shop Project\Shop Project\obj\Debug\ShopProject.csproj.CopyComplete
+C:\Users\Huong Quynh Tran\Dropbox (Old)\My PC (MSI)\Desktop\source\repos\Shop Project\Shop Project\obj\Debug\Shop Project.exe
+C:\Users\Huong Quynh Tran\Dropbox (Old)\My PC (MSI)\Desktop\source\repos\Shop Project\Shop Project\obj\Debug\Shop Project.pdb
+C:\Users\Huong Quynh Tran\Dropbox (Old)\My PC (MSI)\Desktop\source\repos\Shop Project\Shop Project\obj\Debug\Shop_Project.Forms.NewCustomerForm.resources
+C:\Users\Huong Quynh Tran\Dropbox (Old)\My PC (MSI)\Desktop\source\repos\Shop Project\Shop Project\obj\Debug\Shop_Project.Forms.EditCustomerForm.resources
+C:\Users\Huong Quynh Tran\Dropbox (Old)\My PC (MSI)\Desktop\source\repos\Shop Project\Shop Project\obj\Debug\Shop_Project.Forms.SupplierOptions.resources
+C:\Users\Huong Quynh Tran\Dropbox (Old)\My PC (MSI)\Desktop\source\repos\Shop Project\Shop Project\obj\Debug\Shop_Project.Forms.EditSupplierForm.resources
+C:\Users\Huong Quynh Tran\Dropbox (Old)\My PC (MSI)\Desktop\source\repos\Shop Project\Shop Project\obj\Debug\Shop_Project.Forms.NewSupplierForm.resources
+C:\Users\Huong Quynh Tran\Dropbox (Old)\My PC (MSI)\Desktop\source\repos\Shop Project\Shop Project\obj\Debug\Shop_Project.Forms.ProductOptions.resources
+C:\Users\Huong Quynh Tran\Dropbox (Old)\My PC (MSI)\Desktop\source\repos\Shop Project\Shop Project\obj\Debug\Shop_Project.Forms.NewProductForm.resources
+C:\Users\Huong Quynh Tran\Dropbox (Old)\My PC (MSI)\Desktop\source\repos\Shop Project\Shop Project\obj\Debug\Shop_Project.Forms.EditProductForm.resources
+C:\Users\Huong Quynh Tran\Dropbox (Old)\My PC (MSI)\Desktop\source\repos\Shop Project\Shop Project\obj\Debug\Shop_Project.Forms.OrderingOptions.resources
+C:\Users\Huong Quynh Tran\Dropbox (Old)\My PC (MSI)\Desktop\source\repos\Shop Project\Shop Project\obj\Debug\Shop_Project.Forms.NewOrderingForm.resources
+C:\Users\Huong Quynh Tran\Dropbox (Old)\My PC (MSI)\Desktop\source\repos\Shop Project\Shop Project\obj\Debug\Shop_Project.Forms.EditOrderForm.resources
+C:\Users\Huong Quynh Tran\Dropbox (Old)\My PC (MSI)\Desktop\source\repos\Shop Project\Shop Project\obj\Debug\Shop_Project.Forms.NewItemForm.resources
+C:\Users\Huong Quynh Tran\Dropbox (Old)\My PC (MSI)\Desktop\source\repos\Shop Project\Shop Project\obj\Debug\Shop_Project.Forms.EditItemForm.resources

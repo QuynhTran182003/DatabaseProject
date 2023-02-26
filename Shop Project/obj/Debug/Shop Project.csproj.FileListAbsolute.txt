@@ -1,0 +1,7 @@
+C:\Users\Huong Quynh Tran\Dropbox (Old)\My PC (MSI)\Desktop\source\repos\Shop Project\Shop Project\obj\Debug\Shop Project.csproj.AssemblyReference.cache
+C:\Users\Huong Quynh Tran\Dropbox (Old)\My PC (MSI)\Desktop\source\repos\Shop Project\Shop Project\obj\Debug\Shop Project.csproj.SuggestedBindingRedirects.cache
+C:\Users\Huong Quynh Tran\Dropbox (Old)\My PC (MSI)\Desktop\source\repos\Shop Project\Shop Project\obj\Debug\Shop_Project.Form1.resources
+C:\Users\Huong Quynh Tran\Dropbox (Old)\My PC (MSI)\Desktop\source\repos\Shop Project\Shop Project\obj\Debug\Shop_Project.Forms.CustomerOptions.resources
+C:\Users\Huong Quynh Tran\Dropbox (Old)\My PC (MSI)\Desktop\source\repos\Shop Project\Shop Project\obj\Debug\Shop_Project.Properties.Resources.resources
+C:\Users\Huong Quynh Tran\Dropbox (Old)\My PC (MSI)\Desktop\source\repos\Shop Project\Shop Project\obj\Debug\Shop Project.csproj.GenerateResource.cache
+C:\Users\Huong Quynh Tran\Dropbox (Old)\My PC (MSI)\Desktop\source\repos\Shop Project\Shop Project\obj\Debug\Shop Project.csproj.CoreCompileInputs.cache
