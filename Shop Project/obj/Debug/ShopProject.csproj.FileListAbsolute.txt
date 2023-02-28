@@ -1,6 +1,5 @@
 C:\Users\Huong Quynh Tran\Dropbox (Old)\My PC (MSI)\Desktop\source\repos\Shop Project\Shop Project\obj\Debug\ShopProject.csproj.AssemblyReference.cache
 C:\Users\Huong Quynh Tran\Dropbox (Old)\My PC (MSI)\Desktop\source\repos\Shop Project\Shop Project\obj\Debug\ShopProject.csproj.SuggestedBindingRedirects.cache
-C:\Users\Huong Quynh Tran\Dropbox (Old)\My PC (MSI)\Desktop\source\repos\Shop Project\Shop Project\obj\Debug\Shop_Project.Form1.resources
 C:\Users\Huong Quynh Tran\Dropbox (Old)\My PC (MSI)\Desktop\source\repos\Shop Project\Shop Project\obj\Debug\Shop_Project.Forms.CustomerOptions.resources
 C:\Users\Huong Quynh Tran\Dropbox (Old)\My PC (MSI)\Desktop\source\repos\Shop Project\Shop Project\obj\Debug\Shop_Project.Properties.Resources.resources
 C:\Users\Huong Quynh Tran\Dropbox (Old)\My PC (MSI)\Desktop\source\repos\Shop Project\Shop Project\obj\Debug\ShopProject.csproj.GenerateResource.cache
@@ -52,3 +51,4 @@ C:\Users\Huong Quynh Tran\Dropbox (Old)\My PC (MSI)\Desktop\source\repos\Shop Pr
 C:\Users\Huong Quynh Tran\Dropbox (Old)\My PC (MSI)\Desktop\source\repos\Shop Project\Shop Project\obj\Debug\Shop_Project.Forms.EditOrderForm.resources
 C:\Users\Huong Quynh Tran\Dropbox (Old)\My PC (MSI)\Desktop\source\repos\Shop Project\Shop Project\obj\Debug\Shop_Project.Forms.NewItemForm.resources
 C:\Users\Huong Quynh Tran\Dropbox (Old)\My PC (MSI)\Desktop\source\repos\Shop Project\Shop Project\obj\Debug\Shop_Project.Forms.EditItemForm.resources
+C:\Users\Huong Quynh Tran\Dropbox (Old)\My PC (MSI)\Desktop\source\repos\Shop Project\Shop Project\obj\Debug\Shop_Project.KlausShop.resources

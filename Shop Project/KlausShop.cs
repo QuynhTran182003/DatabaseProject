@@ -11,9 +11,9 @@ using System.Windows.Forms;
 
 namespace Shop_Project
 {
-    public partial class Form1 : Form
+    public partial class KlausShop : Form
     {
-        public Form1()
+        public KlausShop()
         {
             InitializeComponent();
         }

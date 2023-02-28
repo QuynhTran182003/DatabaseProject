@@ -86,13 +86,14 @@ namespace Shop_Project
             DatabaseSingleton.CloseConnection();
         }
 
+        //nelze provest update order (tj. customer_id, date_order). Je lepší smazat ten order a udělat novou objednávku aby vyhnul zmatek. Lze však update jenom položky v objednávce
         public void Update(int id, Ordering newEle)
         {
         }
 
         public void GetAll(DataGridView dataView)
         {
-            SqlCommand cmd = new SqlCommand("select ordering.id, ordering.date_order, concat(customer.name, ' ', customer.surname) as Customer, sum(quantity*product.price) as Celkem \r\n\t\tfrom item inner join product on item.product_id = product.id\r\n\t\t\t\t\tright join ordering on item.ordering_id = ordering.id \t\r\n\t\t\t\t\t\tinner join customer on ordering.customer_id = customer.id\r\ngroup by ordering.id, ordering.date_order, customer.name, customer.surname\r\n", DatabaseSingleton.GetInstance());
+            SqlCommand cmd = new SqlCommand("select ordering.id, ordering.date_order, concat(customer.name, ' ', customer.surname) as Customer, sum(quantity*product.price) as Celkem from item inner join product on item.product_id = product.id right join ordering on item.ordering_id = ordering.id inner join customer on ordering.customer_id = customer.id group by ordering.id, ordering.date_order, customer.name, customer.surname\r\n", DatabaseSingleton.GetInstance());
             try
             {
                 cmd.ExecuteNonQuery();

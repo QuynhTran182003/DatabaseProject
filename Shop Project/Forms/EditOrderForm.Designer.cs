@@ -38,17 +38,21 @@
             // 
             // button1
             // 
-            this.button1.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button1.Location = new System.Drawing.Point(626, 108);
+            this.button1.BackColor = System.Drawing.Color.DarkGoldenrod;
+            this.button1.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.button1.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.button1.ForeColor = System.Drawing.Color.Cornsilk;
+            this.button1.Location = new System.Drawing.Point(616, 99);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(75, 27);
+            this.button1.Size = new System.Drawing.Size(85, 36);
             this.button1.TabIndex = 0;
             this.button1.Text = "Add Item";
-            this.button1.UseVisualStyleBackColor = true;
+            this.button1.UseVisualStyleBackColor = false;
             this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
             // dataGridView1
             // 
+            this.dataGridView1.BackgroundColor = System.Drawing.Color.DarkGoldenrod;
             this.dataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.dataGridView1.Location = new System.Drawing.Point(39, 160);
             this.dataGridView1.Name = "dataGridView1";
@@ -60,30 +64,33 @@
             // lbOrderId
             // 
             this.lbOrderId.AutoSize = true;
-            this.lbOrderId.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lbOrderId.Location = new System.Drawing.Point(36, 50);
+            this.lbOrderId.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lbOrderId.ForeColor = System.Drawing.Color.Cornsilk;
+            this.lbOrderId.Location = new System.Drawing.Point(36, 43);
             this.lbOrderId.Name = "lbOrderId";
-            this.lbOrderId.Size = new System.Drawing.Size(63, 16);
+            this.lbOrderId.Size = new System.Drawing.Size(88, 20);
             this.lbOrderId.TabIndex = 2;
             this.lbOrderId.Text = "Order ID: ";
             // 
             // lbCustomer
             // 
             this.lbCustomer.AutoSize = true;
-            this.lbCustomer.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lbCustomer.Location = new System.Drawing.Point(36, 113);
+            this.lbCustomer.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lbCustomer.ForeColor = System.Drawing.Color.Cornsilk;
+            this.lbCustomer.Location = new System.Drawing.Point(36, 106);
             this.lbCustomer.Name = "lbCustomer";
-            this.lbCustomer.Size = new System.Drawing.Size(70, 16);
+            this.lbCustomer.Size = new System.Drawing.Size(96, 20);
             this.lbCustomer.TabIndex = 3;
             this.lbCustomer.Text = "Customer: ";
             // 
             // lbDate
             // 
             this.lbDate.AutoSize = true;
-            this.lbDate.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lbDate.Location = new System.Drawing.Point(352, 50);
+            this.lbDate.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lbDate.ForeColor = System.Drawing.Color.Cornsilk;
+            this.lbDate.Location = new System.Drawing.Point(352, 43);
             this.lbDate.Name = "lbDate";
-            this.lbDate.Size = new System.Drawing.Size(91, 16);
+            this.lbDate.Size = new System.Drawing.Size(126, 20);
             this.lbDate.TabIndex = 4;
             this.lbDate.Text = "Date of order: ";
             // 
@@ -91,6 +98,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackColor = System.Drawing.Color.DarkGoldenrod;
             this.ClientSize = new System.Drawing.Size(748, 457);
             this.Controls.Add(this.lbDate);
             this.Controls.Add(this.lbCustomer);

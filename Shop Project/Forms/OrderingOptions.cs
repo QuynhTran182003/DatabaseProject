@@ -84,7 +84,7 @@ namespace Shop_Project.Forms
             string customer = dataGridView1.Rows[e.RowIndex].Cells["customer"].FormattedValue.ToString();
             string date = dataGridView1.Rows[e.RowIndex].Cells["date_order"].FormattedValue.ToString();
 
-            EditOrderForm editoF = new EditOrderForm(id, customer, date, this);
+            EditOrderForm editoF = new EditOrderForm(id, customer, date, this);//this ... orderingOptions
             editoF.Show();
         }
     }
